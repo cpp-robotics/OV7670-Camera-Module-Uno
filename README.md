@@ -1,6 +1,6 @@
 <H1> IMPORTANT </H1>
 <H3> In order to set this up: </H3>
 - follow this tutorial on youtube, link: https://www.youtube.com/watch?v=6bfY9JXOppI <br>
-- use the files on this repository as directed in the video (these versions worked for me)
-
-After setting it up and running the program correctly, you should see pictures in .bmp format appearing in your "out" folder.
+<H3> Links to materials: </H3>
+- <b>Java JDK:</b> https://www.oracle.com/java/technologies/downloads/#java8 (download windows x86 version)<br>
+- <b>com.rar & arducamp.rar:</b> https://drive.google.com/drive/folders/1TyuHqlACbRzBlPErEFkYwEQ0eNYWJ9lj
